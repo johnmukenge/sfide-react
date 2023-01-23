@@ -1,1 +1,2 @@
 1. Robert=>John ---- crea un progetto react che dica Hello World centrato perfettamente. ✔️
+2. John=>Robert ---- usando lo stesso progetto hello-world, creare un input text in cui ogni lettera digitata viene riscritta a video dentro un paragrafo.
