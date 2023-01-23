@@ -1,1 +1,1 @@
-1. Robert=>John ---- crea un progetto react che dica Hello World centrato perfettamente.
+1. Robert=>John ---- crea un progetto react che dica Hello World centrato perfettamente. ✔️
