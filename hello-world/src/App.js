@@ -24,7 +24,7 @@ const App = () => {
         <Button words={handleButtons} />
         </form>
       </div>
-      <div>
+      <div className="App">
         {words.map((word) => (
           <button key={word}>{word}</button>
         ))}
