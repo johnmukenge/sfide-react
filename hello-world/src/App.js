@@ -21,7 +21,7 @@ const App = () => {
         <p>Hello world</p>
         Testo: <input value={input} onChange={e => setInput(e.target.value)} />
         <p className="AppParagraph">Sono un paragrafo dinamico, scrivi qualcosa per vederlo qui sotto: <br/><b>{input}</b></p>
-        <Button />
+        <Button words={handleButtons} />
         </form>
       </div>
       <div>
