@@ -1,4 +1,4 @@
 1. Robert=>John ---- crea un progetto react che dica Hello World centrato perfettamente. ✔️
 2. John=>Robert ---- Hot reloading: usando lo stesso progetto hello-world, creare un input text 
                      in cui ogni lettera digitata viene riscritta a video dentro un paragrafo. ✔️
-3. Robert=>John ---- Crea un componente che mostri un button per ogni parola inserita nel input dello step precedente    
+3. Robert=>John ---- Crea un componente che mostri un button per ogni parola inserita nel input dello step precedente ✔️
